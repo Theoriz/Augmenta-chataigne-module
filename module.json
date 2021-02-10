@@ -35,7 +35,7 @@
 	{		
 		"OSC Input":
 		{
-			"localPort":12000
+			"localPort":12001
 		},
 		"OSC Outputs":
 		{
